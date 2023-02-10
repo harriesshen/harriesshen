@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm harries</h1>
-<h1 align="center" slide: data-transition="zoo>Frontend engineering</h1><!-- .m" -->
+<h1 align="center" slide: data-transition="zoom" data-transition-speed="slow">Frontend engineering</h1>
 <h3 align="center">a New graduate</h3>
 - 🌱 I’m currently learning **React , Next**
 
