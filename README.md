@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm harries</h1>
+<h1 align="center">Frontend engineering</h1>
 <h3 align="center">a New graduate</h3>
-
 - 🌱 I’m currently learning **React , Next**
 
 <h3 align="left">Connect with me:</h3>
